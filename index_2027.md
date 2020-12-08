@@ -22,7 +22,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Bachelors in Software Engineering
 - GPA 3.83 out of 4.0
 
-## Related Experience
+## Work Experience
 
 `January 2020 - Present`
 __Brigham Young University Idaho__, GIS Web Developer
