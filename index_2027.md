@@ -14,12 +14,13 @@ title: Sergei Gushchyn Resume
 __LDS Business College__, Salt Lake City, UT
 
 - Associates in Computer Programming
+- GPA 3.86 out of 4.0
 
 `Expected 2021`
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Bachelors in Software Engineering
-
+- GPA 3.83 out of 4.0
 
 ## Related Experience
 
