@@ -7,6 +7,9 @@ title: Sergei Gushchyn Resume
 <div id="webaddress">
 <a href="sergei.gushchyn@gmail.com">sergei.gushchyn@gmail.com</a>
 
+## Skills
+
+
 
 ## Education
 
