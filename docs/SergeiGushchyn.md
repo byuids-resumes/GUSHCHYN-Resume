@@ -9,7 +9,11 @@ title: Sergei Gushchyn Resume
 
 ## Skills
 
-
+* JavaScript
+* Python
+* SQL
+* C++
+* Git
 
 ## Education
 
